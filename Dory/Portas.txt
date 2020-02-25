@@ -1,0 +1,22 @@
+
+
+XSHUT_1 ---> D10
+XSHUT_2 ---> D11
+
+SCL ---> A5
+SDA ---> A4
+
+
+PWMA ---> D3
+AIN2 ---> D4
+AIN1 ---> D6
+STDBY ---> Ground
+BIN1 ---> D7
+BIN2 ---> D8
+PWMB ---> D9
+
+BOTÃO ---> D2
+
+
+
+LED VERMELHO ---> D13 (INTERNO)
